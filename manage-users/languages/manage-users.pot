@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-02 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: manage-users.php:51
+msgid "Powered by WordPress"
+msgstr ""
+
+#: manage-users.php:53
+msgid "My custom message"
+msgstr ""
+
+#: manage-users.php:54
+msgid "Special message for users"
+msgstr ""
+
+#. Name of the plugin
+msgid "Manage Users"
+msgstr ""
+
+#. Description of the plugin
+msgid "In this plugin, you can add, view, delete and update members"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://developer.wordpress.org/plugins/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Waqas Hassan"
+msgstr ""

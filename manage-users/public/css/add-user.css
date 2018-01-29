@@ -1,0 +1,91 @@
+.tabcontent {
+    padding: 6px 0px;
+    border-top: none;
+    margin: 0px 10px;
+    margin-left: 0px;
+}
+
+.insert-content {
+	width: 60%;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    box-shadow: 3px 4px 2px -2px #d1d0d0;
+    margin: 10px auto;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+.page-heading {
+	background-color: white;
+    padding: 10px 20px;
+    border-left: 4px solid #ffba00;
+    /*font-size: 22px;*/
+    margin: 10px 0;
+}
+
+.form-heading {
+    background-color: #c7c7c7;
+    box-shadow: 0 4px 2px -2px gray;
+    padding: 10px 0px;
+    margin: 10px 0;
+    text-align: center;
+}
+.error-msg {
+	background-color: white;
+	padding: 10px 20px;
+	border-left: 4px solid red;
+	margin: 10px 0;
+}
+
+.success-msg {
+	background-color: white;
+	padding: 10px 20px;
+	border-left: 4px solid #4CAF50;
+	margin: 10px 0;
+}
+
+.form-group {
+	width: 70%;
+	margin: 0px auto;
+}
+
+.fields {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.submit-button {
+    width: 100%;
+    background-color: #4CAF50 !important;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+.user-levels {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.message-label {
+	font-size: 18px;
+	padding: 5px 8px;
+	background-color: white;
+	border-left: 4px solid orange;
+}
