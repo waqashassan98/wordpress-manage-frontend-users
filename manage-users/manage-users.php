@@ -93,6 +93,9 @@ if ( !is_admin() )
 		$valB = get_option('st_mg_view');
 		$valC = get_option('st_mg_edit');
 		
+		if ($valA == '0' || $valB == '0' || $valC == '0' ) {
+			return;
+		}
 		
 		//Add user page
 	    if(is_page($valA))
